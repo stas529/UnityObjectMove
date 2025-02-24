@@ -6,7 +6,7 @@ Bu proje, Unity kullanarak basit bir 3D küpü kullanıcı inputu ile hareket et
 
 1. projeyi klonlayın:
     ```bash
-    git clone https://github.com/kullanici_adi/Unity-Object-Move.git
+    git clone https://github.com/stas529/UnityObjectMove.git
     ```
 
 2. Unity Editor ile projeyi açın.
