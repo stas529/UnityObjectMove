@@ -1,4 +1,7 @@
-# Unity Object Move
+# Unity Obje Hareket Projesi
+
+[![YouTube Tanıtım Videosu](https://img.youtube.com/vi/SBXTaDlpGzo/maxresdefault.jpg)](https://www.youtube.com/watch?v=SBXTaDlpGzo)
+
 
 Bu proje, Unity kullanarak basit bir 3D küpü kullanıcı inputu ile hareket ettirme projesidir
 
